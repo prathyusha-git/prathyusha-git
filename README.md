@@ -19,6 +19,8 @@ I love exploring how AI can solve real-world problems and create more ease in cu
 <h2>📚 Courses & Certifications</h2>
 <ul>
   <li>🎓 <a href="https://www.coursera.org/professional-certificates/ibm-ai-developer" target="_blank">IBM AI Developer Professional Certificate</a></li>
+  <li>🎓 <a href="https://www.coursera.org/professional-certificates/ibm-ai-developer" target="_blank">Google Cloud Professional Data Engineer</a></li>
+  <li>🎓 <a href="https://www.coursera.org/professional-certificates/ibm-ai-developer" target="_blank">AWS Certified Machine Learning – Specialty</a></li>
 </ul>
 <hr>
 
