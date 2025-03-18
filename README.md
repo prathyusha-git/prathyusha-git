@@ -62,7 +62,7 @@ I love exploring how AI can solve real-world problems and create more ease in cu
 
 <h2>📬 Connect with Me</h2>
 <ul>
-  <li>🌐 <a href="www.linkedin.com/in/prathyushareddy282" target="_blank">LinkedIn</a></li>
+  <li>🌐 <a href="https://www.linkedin.com/in/prathyushareddy282" target="_blank">LinkedIn</a></li>
   <li>📝 <a href="https://medium.com/@prathyushareddy9908/exponential-family-of-distributions-making-math-intuitive-26cbfdf710f7" target="_blank">Blogs</a></li>
 </ul>
 <hr>
