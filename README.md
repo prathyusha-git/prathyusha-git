@@ -39,6 +39,7 @@ I love exploring how AI can solve real-world problems and create more ease in cu
 <h2>📂 Projects</h2>
 <p>Here are some cool projects I've worked on:</p>
 <ul>
+  <li><b>Implementing CINN, CVAE,VAE,INN, LVD on physics dataset at K-State(GRA work)</b></li>
   <li><b>AI-Powered Code Debugger (CIS 890)</b></li>
   <li><b>Scaling LLMs for 5G & Beyond: A Distributed AI Optimization Framework (SOLO PROJECT)</b></li>
   <li><b>YOLO V11 ANALYSIS OF RATSI DATASET (CIS 690)</b></li>
