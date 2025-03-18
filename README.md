@@ -47,6 +47,9 @@ I love exploring how AI can solve real-world problems and create more ease in cu
   <li><b>Fuzzy Logic Based AI Automation Computing for Speed Control of a DC Motor</b></li>
   <li><b>Music Emotion Recognition in different places and different age groups (Neo4j)</b></li>
   <li><b>SECURITY OF IOT DEVICES USING MACHINE LEARNING</b></li>
+  <li><b>AI for Telecom Call Center Automation (Chatbots, NLP)</b></li>
+  <li><b>MLOps Pipeline for Real-Time Fraud Detection in Telecom Industry</b></li>
+  <li><b>AI-Based Video Quality Enhancement for 5G Streaming (Computer Vision)</b></li>
 </ul>
 
 
