@@ -50,6 +50,11 @@ I love exploring how AI can solve real-world problems and create more ease in cu
   <li><b>AI for Telecom Call Center Automation (Chatbots, NLP)</b></li>
   <li><b>MLOps Pipeline for Real-Time Fraud Detection in Telecom Industry</b></li>
   <li><b>AI-Based Video Quality Enhancement for 5G Streaming (Computer Vision)</b></li>
+  <li><b>AI-Powered Fraud Detection System for Banking</b></li>
+  <li><b>AI-Powered Smart Health Insurance Webapp: Personalized Risk Assessment, Fraud Detection & Dynamic Premium Pricing</b></li>
+  <li><b>AI-Powered Digital Twins for Smart Cities (GenAI + IoT)</b></li>
+  <li><b>Autonomous Multi-Purpose AI Agent (AutoAgent)</b></li>
+  <li><b>AI-Powered Business Decision Optimization with A/B Testing & Predictive Analytics</b></li>
 </ul>
 
 
