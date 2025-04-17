@@ -40,17 +40,17 @@ I love exploring how AI can solve real-world problems and create more ease in cu
 <p>Here are some cool projects I've worked on:</p>
 <ul>
   <li><b>Implementing CINN, CVAE,VAE,INN, LVD on physics dataset at K-State(GRA work)</b></li>
-  <li><b>AI-Powered Code Debugger (CIS 890)</b></li>
-  <li><b>Scaling LLMs for 5G & Beyond: A Distributed AI Optimization Framework (SOLO PROJECT)</b></li>
+  <li>AI-Powered Code Debugger (CIS 890)</li>
+  <li>Scaling LLMs for 5G & Beyond: A Distributed AI Optimization Framework (SOLO PROJECT)</li>
   <li><b>YOLO V11 ANALYSIS OF RATSI DATASET (CIS 690)</b></li>
   <li><b>CIS OCaml Interpreter (CIS 705)</b></li>
   <li><b>AIR QUALITY ANALYSIS OF PREVIOUS YEAR IN INDIA</b></li>
   <li><b>Fuzzy Logic Based AI Automation Computing for Speed Control of a DC Motor</b></li>
-  <li><b>Music Emotion Recognition in different places and different age groups (Neo4j)</b></li>
+  <li>Music Emotion Recognition in different places and different age groups (Neo4j)</li>
   <li><b>SECURITY OF IOT DEVICES USING MACHINE LEARNING</b></li>
   <li><b>AI for Telecom Call Center Automation (Chatbots, NLP)</b></li>
-  <li><b>MLOps Pipeline for Real-Time Fraud Detection in Telecom Industry</b></li>
-  <li><b>AI-Based Video Quality Enhancement for 5G Streaming (Computer Vision)</b></li>
+  <li>MLOps Pipeline for Real-Time Fraud Detection in Telecom Industry</li>
+  <li>AI-Based Video Quality Enhancement for 5G Streaming (Computer Vision)</li>
   <li><b>AI-Powered Fraud Detection System for Banking</b></li>
   <li><b>AI-Powered Smart Health Insurance Webapp: Personalized Risk Assessment, Fraud Detection & Dynamic Premium Pricing</b></li>
   <li><b>AI-Powered Digital Twins for Smart Cities (GenAI + IoT)</b></li>
