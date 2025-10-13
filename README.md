@@ -49,12 +49,10 @@ I love exploring how AI can solve real-world problems and create more ease in cu
   <li>Music Emotion Recognition in different places and different age groups (Neo4j)</li>
   <li><b>SECURITY OF IOT DEVICES USING MACHINE LEARNING</b></li>
   <li><b>AI for Telecom Call Center Automation (Chatbots, NLP)</b></li>
-  <li>MLOps Pipeline for Real-Time Fraud Detection in Telecom Industry</li>
-  <li>AI-Based Video Quality Enhancement for 5G Streaming (Computer Vision)</li>
-  <li><b>AI-Powered Fraud Detection System for Banking</b></li>
+  <li><b>Financial Data Science on Customer's Credit Card Spending Habits</b></li>
   <li><b>AI-Powered Smart Health Insurance Webapp: Personalized Risk Assessment, Fraud Detection & Dynamic Premium Pricing</b></li>
+  Future projects
   <li><b>AI-Powered Digital Twins for Smart Cities (GenAI + IoT)</b></li>
-  <li><b>Autonomous Multi-Purpose AI Agent (AutoAgent)</b></li>
   <li><b>AI-Powered Business Decision Optimization with A/B Testing & Predictive Analytics</b></li>
 </ul>
 
