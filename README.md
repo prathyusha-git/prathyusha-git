@@ -7,12 +7,12 @@ I love exploring how AI can solve real-world problems and create more ease in cu
 
 ## 👨‍💻 About Me
 
-- 🎓 I am currently a Masters Student in **Computing and Information Sciences** in **Kansas State University**
-- 🎓 I am excpected to graduate by December 2025
-- 💼 I have 1 year of academic experience as GRA in  Machine Learning & Deep Learning.
-- 💼 I have 1 year of academic experience as GA in Data Analysis, Data Management, Data Scraping with Graduate School's Data.   
-- 🔬 I specialize in "AI Development & Data Science"  
-- 🚀 I enjoy working on open-source projects and sharing knowledge.
+-  I am currently a Masters Student in **Computing and Information Sciences** in **Kansas State University**
+-  I am excpected to graduate by December 2025
+-  I have 1 year of academic experience as GRA in  Machine Learning & Deep Learning.
+-  I have 1 year of academic experience as GA in Data Analysis, Data Management, Data Scraping with Graduate School's Data.   
+-  I specialize in "AI Development & Data Science"  
+-  I enjoy working on open-source projects and sharing knowledge.
 
 ---
 
